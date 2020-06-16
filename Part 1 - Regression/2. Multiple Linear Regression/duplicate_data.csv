@@ -1,0 +1,51 @@
+,Brand,Price,Body,Mileage,EngineV,Engine Type,Registration,Year,Model
+348,Mercedes-Benz,199999.0,crossover,0,5.5,Petrol,yes,2016,GLS 63
+602,Mercedes-Benz,199999.0,crossover,0,5.5,Petrol,yes,2016,GLS 63
+1160,BMW,47000.0,other,5,2.0,Petrol,yes,2014,Z4
+1573,Volkswagen,24900.0,sedan,1,1.6,Diesel,yes,2016,Jetta
+1929,BMW,75555.0,sedan,30,4.4,Petrol,yes,2014,550
+1943,Mercedes-Benz,20400.0,sedan,190,1.8,Gas,yes,2011,E-Class
+2008,Mercedes-Benz,47600.0,van,0,2.2,Diesel,yes,2016,Vito
+2037,Mitsubishi,15900.0,crossover,180,3.0,Gas,yes,2008,Pajero Wagon
+2044,Mercedes-Benz,47600.0,van,0,2.2,Diesel,yes,2016,Vito
+2380,Audi,39999.0,crossover,45,2.0,Diesel,yes,2014,Q5
+2481,Volkswagen,23999.0,sedan,0,1.6,Diesel,yes,2016,Jetta
+2486,Mercedes-Benz,125000.0,sedan,18,3.0,Diesel,yes,2015,S 350
+2521,Toyota,195000.0,crossover,0,4.5,Diesel,yes,2016,Land Cruiser 200
+2534,Mercedes-Benz,35500.0,sedan,100,3.5,Petrol,yes,2010,S 350
+2568,Volkswagen,51900.0,crossover,30,3.0,Diesel,yes,2015,Touareg
+2599,Volkswagen,37900.0,crossover,73,3.0,Diesel,yes,2012,Touareg
+2724,Toyota,99999.0,crossover,0,4.5,Diesel,yes,2016,Land Cruiser 200
+2763,Mercedes-Benz,47600.0,van,0,2.2,Diesel,yes,2016,Vito
+2806,Mercedes-Benz,20300.0,sedan,198,1.8,Gas,yes,2011,E-Class
+2934,Mercedes-Benz,43500.0,other,51,3.0,Diesel,yes,2014,E-Class
+2948,Volkswagen,55555.0,van,63,2.0,Diesel,yes,2013,Multivan
+3034,Mercedes-Benz,71999.0,crossover,0,2.2,Diesel,yes,2016,GLE-Class
+3157,Mercedes-Benz,19600.0,van,127,1.8,Diesel,yes,2013,B 180
+3243,BMW,104999.0,crossover,2,3.0,Diesel,yes,2016,X5
+3244,Mercedes-Benz,199999.0,crossover,0,5.5,Petrol,yes,2016,GLS 63
+3268,Volkswagen,55555.0,van,50,2.0,Diesel,yes,2013,Multivan
+3279,Volkswagen,51900.0,crossover,30,3.0,Diesel,yes,2015,Touareg
+3367,Mercedes-Benz,20300.0,sedan,198,1.8,Gas,yes,2011,E-Class
+3377,Volkswagen,15700.0,sedan,110,1.8,Petrol,yes,2011,Passat B7
+3452,BMW,42900.0,sedan,2,2.0,Petrol,yes,2016,520
+3510,BMW,67500.0,crossover,1,2.0,Diesel,yes,2016,X5
+3513,Toyota,33333.0,vagon,73,4.0,Gas,yes,2009,FJ Cruiser
+3537,Mercedes-Benz,17800.0,van,162,1.8,Diesel,yes,2012,B 180
+3659,BMW,77777.0,sedan,8,4.4,Petrol,yes,2014,750
+3687,Renault,10500.0,vagon,185,1.5,Diesel,yes,2011,Megane
+3716,BMW,41000.0,crossover,80,3.0,Petrol,yes,2012,X6
+3731,Mercedes-Benz,20500.0,sedan,222,5.5,Petrol,yes,2006,S 500
+3757,Toyota,32000.0,sedan,22,2.5,Petrol,yes,2015,Camry
+3791,Toyota,13900.0,sedan,102,3.5,Gas,yes,2008,Camry
+3914,Toyota,47500.0,crossover,45,3.0,Diesel,yes,2014,Land Cruiser Prado
+3950,Mercedes-Benz,20400.0,sedan,190,1.8,Gas,yes,2011,E-Class
+3968,Mercedes-Benz,17800.0,van,162,1.8,Diesel,yes,2012,B 180
+4088,BMW,77500.0,crossover,1,3.0,Petrol,yes,2016,X6
+4112,Volkswagen,55555.0,van,53,2.0,Diesel,yes,2013,Multivan
+4139,BMW,86999.0,crossover,0,3.0,Diesel,yes,2016,X6
+4150,Toyota,103999.0,crossover,0,4.5,Diesel,yes,2016,Land Cruiser 200
+4167,Mercedes-Benz,43500.0,other,51,3.0,Diesel,yes,2014,E-Class
+4204,Mercedes-Benz,20500.0,sedan,173,1.8,Gas,yes,2011,E-Class
+4274,Mercedes-Benz,109999.0,crossover,0,2.98,Diesel,yes,2016,GLS 350
+4311,Renault,10500.0,vagon,185,1.5,Diesel,yes,2011,Megane
